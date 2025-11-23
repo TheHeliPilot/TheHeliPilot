@@ -1,4 +1,3 @@
-# About Me:
 # Game Developer & Systems Architect
 
 Solo developer crafting ambitious multiplayer experiences with deep technical foundations and emergent gameplay. Currently building a space MMO in Unreal Engine 5—a physics-driven sandbox inspired by EVE Online's complexity but designed for accessibility.
